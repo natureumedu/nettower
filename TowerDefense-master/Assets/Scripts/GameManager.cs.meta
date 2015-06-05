@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dca7afd3653af314d8caa97a1b2b9c65
+timeCreated: 1433331146
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - EnemyPrefab: {fileID: 100000, guid: a84d866c941de9c4f8466adb84ab6371, type: 2}
+  - PathPrefab: {fileID: 100000, guid: b1e0f8e16e04e3a48ab9865c613b0a8d, type: 2}
+  - TowerPrefab: {fileID: 100000, guid: 72b25f8bade59464daa9a3b36a4a0f04, type: 2}
+  - CarrotSpawner: {instanceID: 0}
+  - BunnyGeneratorSprite: {instanceID: 0}
+  - infoText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
